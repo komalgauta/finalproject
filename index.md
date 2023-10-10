@@ -1,4 +1,4 @@
-[17.57] Komal Gautam
+Komal Gautam
 
 ## komal gautam web exercise
 
