@@ -1,5 +1,3 @@
-Komal Gautam
-
 ## komal gautam web exercise
 
 
